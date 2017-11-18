@@ -51,7 +51,7 @@ edit /etc/systemd/journald.conf and change the Storage= volatile
 
 ![q13](images/13.1.png)
 
-![q13](images/13.2png)
+![q13](images/13.2.png)
 
 ##14
 
